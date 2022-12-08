@@ -1,3 +1,7 @@
+# Công Nghệ Net
+
+## Đề tài tìm hiểu: CHART
+
 ## Danh sách thành viên nhóm
 
 | STT | Họ tên | MSSV| Lớp |
